@@ -25,3 +25,12 @@ And the response should be:
 An incorrect request, such as one which includes an invalid zip code should result in:
 
 `{"distance":-1}`
+
+NOTES: 
+
+
+- https://blog.cloud66.com/beginners-guide-to-building-real-world-microservices-with-node-js/
+
+- https://nodesource.com/blog/microservices-in-nodejs
+
+- https://jscomplete.com/learn/node-beyond-basics/node-streams#the-pipe-method
